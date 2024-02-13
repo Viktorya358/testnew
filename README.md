@@ -1,7 +1,9 @@
-# Hello, word!
-
-I study in Netology
+Hello, word!
+I'm studying at Netology
 
 09.02.2024
 
-## New title
+LLC "Hornc hooves"
+Chisty List Publishing House
+Spaceport via Kzvezdny Kzvozdny"
+Too Famous Character Design Studio
